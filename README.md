@@ -9,6 +9,15 @@ Os exemplos e exercícios estão organizados em _branches_ organizadas por tema:
 
 ## MATERIAL DE REFERÊNCIA
 
+> Português
+- [https://wiki.python.org.br/ListaDeExercicios](https://wiki.python.org.br/ListaDeExercicios)
+
+> Inglês
+- [https://checkio.org/](https://checkio.org/)
+- [https://www.codewars.com/](https://www.codewars.com/)
+- [https://www.projecteuler.net/](https://www.projecteuler.net/)
+- [http://silentteacher.toxicode.fr/](http://silentteacher.toxicode.fr/)
+- [https://blockly-games.appspot.com/?lang=en](https://blockly-games.appspot.com/?lang=en)
 
 ## FERRAMENTAS
 - [Interpretador Python](https://www.python.org/)
