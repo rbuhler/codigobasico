@@ -8,7 +8,6 @@ Os exemplos e exercícios estão organizados em _branches_ organizadas por tema:
 * **master** : área principal com informações e material de apoio geral.
 
 ## MATERIAL DE REFERÊNCIA
-
 > Português
 - [https://wiki.python.org.br/ListaDeExercicios](https://wiki.python.org.br/ListaDeExercicios)
 
@@ -24,7 +23,7 @@ Os exemplos e exercícios estão organizados em _branches_ organizadas por tema:
 - [Editor de código Pycharm](https://www.jetbrains.com/pycharm/)
 - [Comunicador Slack](https://slack.com/intl/en-br/)
   - workspace:  **codigobasico.slack.com**
-  
-  **CONTATO**
+
+## CONTATO
   * [eMail](mailto:rodrigo.buhler@ymail.com)
-  * [Linkedin Rodrigo Bühler](https://www.linkedin.com/in/rodrigobuhler/)
+  * [Linkedin](https://www.linkedin.com/in/rodrigobuhler/)
