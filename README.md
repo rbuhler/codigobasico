@@ -6,6 +6,7 @@ Os exemplos e exercícios estão organizados em _branches_ organizadas por tema:
 
 ## _BRANCHES_
 * **master** : área principal com informações e material de apoio geral.
+* **exemplos** : área com exemplos e pedaçoes de código de exemplo.
 
 ## MATERIAL DE REFERÊNCIA
 > Português

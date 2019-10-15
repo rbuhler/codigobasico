@@ -7,14 +7,14 @@ Apenas um bloco é executado a cada teste.
 
 # Neste exemplo a condição é verdadeira então o 1o bloco é executado
 print("Primeiro teste")
-if 1+1 == 2:
+if 1 + 1 == 2:
     print("A condição é verdadeira.")
 else:
     print("A condição é falsa.")
 
 # Já neste outro caso a condição não é verdadeira, com isso o bloco "else" é executado
 print('\n' + "Segundo teste")
-if 1+1 == 3:
+if 1 + 1 == 3:
     print("A condição é verdadeira.")
 else:
     print("A condição é falsa.")
@@ -42,6 +42,12 @@ print("Valor da variável " + str(valor))
 if valor > 30:
     print("Variável com valor maior do que 50.")
 elif valor == 30:
-    print ("Variável com valor igual a 30.")
+    print("Variável com valor igual a 30.")
 else:
     print("Variável com valor diferente das condições anteriores.")
+
+# Expressão ternária
+print("Expressão Ternária Verdadeira") if (1 + 1 == 2) else print("Expressão Ternária Falsa")
+
+a = "Expressão Ternária Verdadeira" if (1 + 1 == 2) else "Expressão Ternária Falsa"
+print(a)
