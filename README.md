@@ -1,5 +1,5 @@
 # Codigo Básico
-> Material de apoio para treinamento de programação. Este repositório se destina a fornecer material de apoio para o treinamento de programação básica.
+> Material de apoio para treinamento de programação.
 
 ## MATERIAL DE REFERÊNCIA
 > Português
