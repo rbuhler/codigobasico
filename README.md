@@ -1,5 +1,5 @@
 # Codigo Básico
-> Material de apoio para treinamento de programação.
+> Wiki com material do [workshop](https://github.com/rbuhler/codigobasico/wiki)
 
 ## MATERIAL DE REFERÊNCIA
 > Português
