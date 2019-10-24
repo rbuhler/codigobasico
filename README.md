@@ -1,5 +1,5 @@
 # Codigo Básico
-> Wiki com material do [workshop](https://github.com/rbuhler/codigobasico/wiki)
+> Wiki com material do [workshop](https://github.com/rbuhler/codigobasico/wiki/SEJAS-BEM-VINDO)
 
 ## MATERIAL DE REFERÊNCIA
 > Português
