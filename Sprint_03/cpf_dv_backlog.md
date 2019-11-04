@@ -1,4 +1,4 @@
-# BACKLOG sp01bl01 - Cálculo do digito verificador do CPF
+# BACKLOG sp03bl01 - Cálculo do digito verificador do CPF
 ## História do usuário
 > Eu como usuário preciso do cálculo do dígito verificador para um CPF informado.
 > Vou informar os 9 primeiros dígitos e quero receber como resposta o CPF completo
@@ -24,13 +24,13 @@
   * adicionar o 1o número do dígito verificador ao final do CPF informado.
   
 ## Convenção de nomes
-0. Arquivo **cpf_dv.py** .
-0. Algoritmo **cpf_dv_teste.py** .
+0. Arquivo **cpf_dv.py**.
+0. Função  **cpf_dv**.
 
 ## Critério de Aceite do _backlog_
 0. A partir da informação de um conjunto de 9 dígitos calcular seu dígito verificador
 com base nas regras do cálculo do CPF. 
-0. Para o CPF **464668920** é são esperados os valores:
+0. Para o CPF **464668920** são esperados os seguintes valores:
 ````
 1o passo Total : 286
         Primeiro digito : 0
@@ -39,5 +39,4 @@ com base nas regras do cálculo do CPF.
         Segundo digito : 0
 4o passo CPF : 46466892000
 ````
-
 0. O algoritmo deve passar pelo teste **cpf_dv_teste.py** .
