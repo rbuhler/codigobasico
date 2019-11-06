@@ -1,0 +1,47 @@
+*&---------------------------------------------------------------------*
+*& Report Z77_fibonacci
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT Z77_fibonacci.
+
+data quantidade TYPE i VALUE 20.
+data contador   TYPE i VALUE 2.
+
+data fibonacci       TYPE i VALUE 0.
+data fibonacci_lista TYPE TABLE OF i.
+data fibo_a          TYPE i VALUE 0.
+data fibo_b          TYPE i VALUE 1.
+
+* Inicialização
+APPEND fibo_a TO fibonacci_lista.
+fibonacci = 1.
+APPEND fibo_b TO fibonacci_lista.
+
+IF quantidade < 3.
+  quantidade = 3.
+ENDIF.
+
+* Geração
+LOOP AT fibonacci_lista INTO fibonacci.
+
+  IF sy-tabix = contador.
+    fibonacci = fibo_a + fibo_b.
+
+    fibo_a = fibo_b.
+    fibo_b = fibonacci.
+
+    APPEND fibonacci TO fibonacci_lista.
+    contador = contador + 1.
+
+    IF contador = quantidade.
+      EXIT.
+    ENDIF.
+
+  ENDIF.
+ENDLOOP.
+
+* Apresentação
+LOOP at fibonacci_lista INTO fibonacci.
+  WRITE: fibonacci, / .
+ENDLOOP.
