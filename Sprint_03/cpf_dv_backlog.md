@@ -1,4 +1,4 @@
-# BACKLOG sp03bl01 - Cálculo do digito verificador do CPF
+# BACKLOG Cálculo do digito verificador do CPF
 ## História do usuário
 > Eu como usuário preciso do cálculo do dígito verificador para um CPF informado.
 > Vou informar os 9 primeiros dígitos e quero receber como resposta o CPF completo

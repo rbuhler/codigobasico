@@ -1,4 +1,4 @@
-# BACKLOG sp01bl01 - Cálculo do digito verificador do CPF
+# BACKLOG Cálculo do digito verificador do CPF
 ## História do usuário
 > Eu como usuário preciso ser capaz de informar a quantidade de números primos a
 > serem gerados e receber uma lista com estes números.
