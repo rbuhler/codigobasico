@@ -1,0 +1,42 @@
+*&---------------------------------------------------------------------*
+*& Report Z77_fibonacci
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT Z77_fibonacci.
+
+DATA quantidade TYPE i VALUE 6.
+DATA primo       TYPE i VALUE 1.
+DATA primo_lista TYPE TABLE OF i.
+
+DATA divisor     TYPE i VALUE 1.
+DATA resto       TYPE i.
+
+* Geração
+WHILE primo <= quantidade.
+
+  DO ( primo - 1 ) TIMES.
+
+    divisor = divisor + 1.
+    resto = primo MOD divisor.
+
+    IF resto = 0.
+      primo = 0.
+      EXIT.
+    ENDIF.
+
+    divisor = divisor + 1.
+  ENDDO.
+
+  IF primo > 0.
+    APPEND primo TO primo_lista.
+  ENDIF.
+
+  primo   = primo + 1.
+  divisor = 1.
+ENDWHILE.
+
+* Apresentação
+  LOOP AT primo_lista INTO primo.
+    WRITE: primo, / .
+  ENDLOOP.
