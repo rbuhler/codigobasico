@@ -1,5 +1,6 @@
 # Codigo Básico
 > Wiki com material do [workshop](https://github.com/rbuhler/codigobasico/wiki)
+> Board com as tarefas [Código Básico](https://trello.com/b/zV26lWOk/training-diferencial)
 
 ## MATERIAL DE REFERÊNCIA
 > Português
