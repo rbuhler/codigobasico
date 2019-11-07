@@ -23,6 +23,8 @@
 - [Editor de código Pycharm](https://www.jetbrains.com/pycharm/)
 - [Comunicador Slack](https://slack.com/intl/en-br/)
   - workspace:  **codigobasico.slack.com**
+- [GitHub](https://github.com/)
+  - [Git](https://git-scm.com/)
   
 **CONTATO**
 * [eMail](mailto:rodrigo.buhler@ymail.com)
