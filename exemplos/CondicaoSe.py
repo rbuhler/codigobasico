@@ -39,8 +39,8 @@ valor = 30
 print('\n' + "Teste de multiplas condições.")
 print("Valor da variável " + str(valor))
 
-if valor > 30:
-    print("Variável com valor maior do que 50.")
+if valor > 29:
+    print("Variável com valor maior do que 29.")
 elif valor == 30:
     print("Variável com valor igual a 30.")
 else:
