@@ -1,6 +1,8 @@
 # Codigo Básico
 > Wiki com material do [workshop](https://github.com/rbuhler/codigobasico/wiki)
 
+> Board com as tarefas [Código Básico](https://trello.com/b/zV26lWOk/training-diferencial)
+
 ## MATERIAL DE REFERÊNCIA
 > Português
 * Desafios
@@ -21,6 +23,8 @@
 - [Editor de código Pycharm](https://www.jetbrains.com/pycharm/)
 - [Comunicador Slack](https://slack.com/intl/en-br/)
   - workspace:  **codigobasico.slack.com**
+- [Versionador e repositório para código GitHub](https://github.com/)
+  - [Git](https://git-scm.com/)
   
 **CONTATO**
 * [eMail](mailto:rodrigo.buhler@ymail.com)
