@@ -12,6 +12,7 @@
 * Código
   - [w3schools.com](https://www.w3schools.com/python/default.asp)
 * Desafios
+  - [https://www.hackerrank.com/](https://www.hackerrank.com/)
   - [https://checkio.org/](https://checkio.org/)
   - [https://www.codewars.com/](https://www.codewars.com/)
   - [https://www.projecteuler.net/](https://www.projecteuler.net/)
